@@ -1,0 +1,8 @@
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.deps.json
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.pdb
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.AssemblyInfoInputs.cache
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.AssemblyInfo.cs
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.csproj.CoreCompileInputs.cache
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.pdb

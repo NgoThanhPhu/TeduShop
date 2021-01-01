@@ -1,0 +1,16 @@
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Service.deps.json
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Service.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Service.pdb
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Common.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Data.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Model.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Common.pdb
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Data.pdb
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\bin\Debug\netstandard2.0\TeduShop.Model.pdb
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.csprojAssemblyReference.cache
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.AssemblyInfoInputs.cache
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.AssemblyInfo.cs
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.csproj.CoreCompileInputs.cache
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.csproj.CopyComplete
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.dll
+G:\Projects\OnlineShop\TeduShop\TeduShop.Service\obj\Debug\netstandard2.0\TeduShop.Service.pdb
