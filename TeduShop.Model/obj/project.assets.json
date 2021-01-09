@@ -250,11 +250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+      "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
       "projectName": "TeduShop.Model",
-      "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+      "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
       "packagesPath": "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\obj\\",
+      "outputPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NGOTHANHPHU\\AppData\\Roaming\\NuGet\\NuGet.Config",

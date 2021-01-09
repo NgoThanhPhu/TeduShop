@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj": {}
+    "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+    "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
         "projectName": "TeduShop.Common",
-        "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+        "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
         "packagesPath": "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\obj\\",
+        "outputPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGOTHANHPHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
+    "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
+        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
         "projectName": "TeduShop.Data",
-        "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
+        "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
         "packagesPath": "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Data\\obj\\",
+        "outputPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGOTHANHPHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-                "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
+              "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+                "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
+    "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
         "projectName": "TeduShop.Model",
-        "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+        "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
         "packagesPath": "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\obj\\",
+        "outputPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGOTHANHPHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,14 +187,14 @@
         }
       }
     },
-    "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj": {
+    "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+        "projectUniqueName": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
         "projectName": "TeduShop.Service",
-        "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+        "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
         "packagesPath": "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Service\\obj\\",
+        "outputPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGOTHANHPHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,14 +211,14 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-                "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
+              "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+                "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
               },
-              "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
-                "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj"
+              "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
+                "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj"
               },
-              "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
-                "projectPath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj"
+              "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
+                "projectPath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj"
               }
             }
           }

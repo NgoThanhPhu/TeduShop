@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tl5ZddSQBH6y2agZXuYT7Adq9eNEPR23ow2wElXAs1ejMl+v7GEi2CRRKZKoCIJTAuvaU0rDfY1Us17oYj3rw==",
+  "dgSpecHash": "UlP/K8FQtxHruHkdS20YDPIBOPEsgignaJvrzXMQSYt6YbMPKuZw/w7uAv9kTpiVQzTrPccIXNW8btR44eOSjg==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\OnlineShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+  "projectFilePath": "G:\\Projects\\OnlineShop\\TeduShopVS\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\NGOTHANHPHU\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
